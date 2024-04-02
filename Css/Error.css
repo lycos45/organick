@@ -1,0 +1,58 @@
+
+.error{
+    width: 1920px;
+    height: 898px;
+    background-image: url('/organick/image/images/bck_error.png');
+    background-size: cover;
+    background-size: 100%;
+
+}
+.display_text_error{
+    max-width: 533px;
+    height: 469.21px;
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+   justify-content: center;
+    margin-left: 1000px;
+    align-items: center;
+    
+   
+}
+.content_error{
+    width: 533px;
+    height: 354.21px;
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    
+    margin-top: 300px;
+}
+
+.title_error{
+    width: 564px;
+    height: 315.21px;
+}
+.t404{
+    width: 502.29px;
+    height: 219.14pc;
+    color: #8FA8A8;
+    font-size: 340.29px;
+}
+.page_not_found{
+    
+    font-size: 50px;
+    color:#274C5B;
+}
+.page_introuvable{
+    font-size: 18px;
+    font-weight: 600px;
+    line-height: 29.77px ;
+    color: #525c60;
+}
+.text511{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #ffffff;
+}

@@ -1,0 +1,478 @@
+.Bannner_about{
+    max-width: 1920px;
+    height: 450px;
+    width: 100%;
+    background-image: url('/organick/image/images/banner_about.png');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.Display_text_about{
+   
+    max-width: 570px;
+    width: 100%;
+    height: 82px;
+    margin:0 auto;
+    
+    
+}
+.text_about{
+    
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 82.03px;
+    color: #274C5B;
+}
+.About{
+    margin-top: 200px;
+    max-width: 1920px;
+    height: 935px;
+    
+}
+.about_prop{
+    max-width: 1691.12px ;
+    height: 929px;
+    
+    gap: 58px;
+    margin-top: 50px;
+    display: flex;
+}
+.image_about{
+    max-width: 1021px;
+    height: 764px;
+    margin-left: 177.56px;
+
+}
+.content_about{
+    display: flex;
+    flex-direction: column;
+    gap: 58px;
+    width: 675px;
+    height: auto;
+}
+.subcontent{
+    max-width: 675px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+   
+}
+.heading_about{
+    max-width: 674px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.Title_about{
+    width: 219.56px;
+    height: 49px;
+    font-family: "Yellowtail", cursive;
+    color: #68A47F;
+    font-size: 36px;
+    font-weight: 400;
+    line-height :49.06px;
+}
+.title1_about{
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 58.59px;
+    color: #274C5B;
+    width: 674px;
+    height: 59px;
+   
+}
+.lorem{
+    width: 671px;
+    height: 210px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.77px;
+    
+}
+.Points_about{
+    display: flex;
+    gap: 65px;
+    max-width: 652.58px;
+    height: auto;
+    margin-top: 50px;
+    
+}
+.creation{
+    width: 300px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+   gap: 20px;
+    
+}
+.icone_about{
+    height: 48px;
+    width: 150px;
+    
+}
+.titre_about{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29.3px;
+    color: #274C5B;
+    width: 674px;
+    height: 59px;
+    
+
+}
+.bouton_about{
+    width: 224px;
+    height: auto;
+    display: flex;
+    gap: 10px;
+
+}
+
+.nous{
+    max-width: 1920px;
+    height: 1429px;
+    background-color: #F9F8F8;
+}
+.nous1{
+    max-width: 1400px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 91px;
+    margin: 0 auto;
+    
+}
+.nous2{
+    max-width: 1400px ;
+    height: auto;
+    display: flex;
+    gap: 50px;
+}
+.titre3{
+    width: 286px;
+    height:86px;
+    font-family: "Yellowtail", cursive;
+    color: #68A47F;
+    font-size: 36px;
+    font-weight: 400;
+    line-height :49.06px;
+    color: #7eb693;
+
+
+}
+.titre4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-size: 43px;
+    line-height: 52.73px;
+    color: #274C5B;
+    width: 655px;
+    height: 106px;
+   
+}
+.titre5{
+    width: 671px;
+    height: 60px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.77px;
+    margin-top: 20px;
+    text-align: center;
+    
+
+}
+.titre51{
+    width: 671px;
+    height: 60px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.77px;
+    margin-top: 20px;
+   
+    
+
+}
+.titre6{
+    
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23.44px;
+    color: #274C5B;
+   
+   
+    
+   
+
+
+}
+.titre7{
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 29.3px;
+    color: #274C5B;
+
+}
+.titre52{
+    width: 184px;
+    height: 115px;
+    margin: 0 auto;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.77px;
+
+
+}
+.ecrit{
+    width: 334px;
+    height: 81px;
+    display: flex;
+    background-color:#ECECEC ;
+    border-radius: 50px;
+    padding : 29px 91px 29px 27px;
+    
+}
+.bloc_about{
+    width: 671px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 31px;
+}
+.heading_nous{
+    width: 671px;
+    height: 258px;
+}
+.heading_nous2{
+    width: 486px;
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.img_about{
+    width: 678px;
+    height: 579px;
+    
+    border-radius: 20px;
+   background-image: url('/organick/image/images/leg.jpg');
+}
+.achat{
+    width: 1118px;
+    height: auto;
+    display: flex;
+    gap: 30px;
+    margin: 0 auto;
+
+}
+
+
+
+.achat1{
+    width: 257px;
+    height: 335px;
+    
+    border-radius: 30px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.icn{
+    width: 95px;
+    height: 95px;
+    margin: 0 auto;
+    
+    
+
+}
+
+
+
+.equipe{
+    max-width:1920px ;
+    height: 900px;
+}
+.team{
+    max-width: 1401px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    gap: 42px;
+
+}
+.equip{
+    display: flex;
+    gap: 27px;
+    max-width: 1401px;
+    height: 615px;
+
+}
+
+.equip1{
+    width: 449.1px;
+    height: 655px;
+    display: flex;
+    flex-direction: column;
+    height: 615px;
+    background-color:#F9F8F8 ;
+    
+
+}
+.nom_team{
+    width: 449px;
+    height: 130px;
+    display: flex;
+    gap: 170px;
+    margin-top: 50px;
+     
+}
+
+.follow{
+    width: 63px;
+    height: 21.37px;
+    display: flex;
+    gap: 50px;
+    
+}
+.face{
+    width:22.33px;
+    height:21.37px;
+    
+}
+.twitter{
+    width:23.93px;
+    height:19.14px;
+    
+}
+.insta{
+    width:23.93px;
+    height:19.14px;
+}
+
+
+
+
+.offer_product{
+    max-width: 1920px;
+    height: 892px;
+    background-color:#274C5B ;
+    display: flex;
+    align-items: center;
+}
+.content_about2{
+    max-width: 1399.41px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 33px;
+    align-items: center;
+    margin: 0 auto;
+  
+
+}
+.Title_about1{
+    width: 270.87px;
+    height: 49px;
+    font-family: "Yellowtail", cursive;
+    color: #68A47F;
+    font-size: 36px;
+    font-weight: 400;
+    line-height :49.06px;
+    margin: 0 auto;
+}
+.title2_about{
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 58.59px;
+    color: #ffffff;
+    width: 620px;
+    height: 59px;
+ 
+    
+}
+.contenu{
+    display: flex;
+    gap: 21px;
+    max-width: 1399.41px;
+    height: auto;
+    
+  
+}
+.contenu1{
+    width: 334.1px;
+    height: 314px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+   
+
+}
+.offre1{
+    width: 74px;
+    height: 29px;
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29.3px;
+    color: #ffffff;
+    margin: 20px;
+    border-radius: 20px;
+
+}
+.offre2{
+    width: 192.15px;
+    height: 29px;
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29.3px;
+    color: #ffffff;
+    margin: 20px;
+    border-radius: 20px;
+}
+.offre3{
+    width: 150px;
+    height: 29px;
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29.3px;
+    color: #ffffff;
+    margin: 20px;
+    border-radius: 20px;
+}
+.offre4{
+    width: 100.98px;
+    height: 29px;
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29.3px;
+    color: #ffffff;
+    margin: 20px;
+    border-radius: 20px;
+}

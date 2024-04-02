@@ -1,0 +1,112 @@
+
+
+.form-container {
+    width: 1184px;
+    height: 650px;
+    margin: 0 auto;
+    padding: 20px;
+   
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+.present{
+    display: flex;
+    width: 1184px;
+    height: 60px;
+    gap: 46px;
+}
+#name{
+    width: 569px;
+    height:auto;
+    border:1px solid  #7EB693;
+    border-radius: 16px;
+}
+#email{
+    width: 569px;
+    height:auto;
+    border:1px solid  #7EB693;
+    border-radius: 16px;
+}
+#company{
+    width: 569px;
+    height:auto;
+    border:1px solid  #7EB693;
+    border-radius: 16px;
+    margin-left: 20px;
+
+}
+#subject{
+    width: 569px;
+    height:auto;
+    border:1px solid  #7EB693;
+    border-radius: 16px;
+}
+
+.present1{
+    display: flex;
+    width: 1184px;
+    height: 60px;
+    gap: 46px;
+}
+.present2{
+    width: 1184px;
+    height: 60px;
+    border-radius: 16px;
+}
+#message{
+    width: 1140px;
+    height: 150px;
+    border:1px solid  #7EB693;
+}
+#send-button{
+    width: 220px;
+    height: auto;
+    display: flex;
+    border-radius: 16px;
+    padding: 28px  47px 29px 47px;
+    color: #ffff;
+    background-color:#274C5B;
+    margin-top: 70px;
+
+}
+
+.form-container label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-container input[type="text"],
+.form-container input[type="email"],
+.form-container textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-container button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.form-container button:hover {
+    background-color: #45a049;
+}
+
+.form-container p {
+    text-align: center;
+    font-style: italic;
+    color: #ccc;
+}
+
+
+
+input[type="text"],
+input[type="email"],

@@ -1,0 +1,258 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+body{
+    height: 120vh; 
+}
+.Bannner_services{
+    max-width: 1920px;
+    height: 450px;
+    width: 100%;
+    background-image: url('/organick/image/images/Banner\ Image.png');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.Display_text{
+   
+    max-width: 274px;
+    width: 100%;
+    height: 82px;
+    margin:0 auto;
+    
+}
+.text_services{
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 82.03px;
+    color: #274C5B;
+}
+.Background_services{
+    max-width: 1920px;
+    width: 100%;
+    height: 1553px;
+    background-color: #F9F8F8;
+    display: flex;
+    align-items: center;
+
+}
+.content_services{
+    width: 100%;
+    max-width: 1399px;
+    height: 1130px;
+    margin: 0 auto;
+    border-radius: 16px;
+    text-align: center;
+    align-items: center;
+    
+   
+}
+.Heading_services{
+    max-width: 482px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+ 
+    margin: 0 auto;
+    
+
+}
+.cultive{
+    max-width: 255px;
+    width: 100%;
+    height: 49px;
+    font-family: "Yellowtail", cursive;
+    color: #68A47F;
+    font-size: 36px;
+    font-weight: 400;
+    line-height :49.06px;
+    margin: 0 auto;
+    
+}
+.agriculture{
+    width: 571px;
+    height: 118px;
+   
+ 
+    
+}
+.agri{
+   
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 58.59px;
+    color: #274C5B;
+    
+
+}
+.content1_services{
+    max-width: 1399px;
+    width: 100%;
+    height: 990px;
+   
+    display: flex;
+}
+.content2_services{
+    max-width: 396px;
+    height: 627.11px;
+    display: flex;
+    flex-direction: column;
+    gap: 39px;
+    
+   
+}
+.content3_services{
+    max-width: 396px;
+    height: 184.37px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    
+    align-items: end;
+    
+}
+.icon_services{
+    width: 52.56px;
+    height: 55.37px;
+}
+.produits{
+    width: 221px;
+    height: 29px;
+    
+}
+.lait{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29.3px;
+    color: #274C5B;
+}
+.lorem{
+    width: 396px;
+    height: 90px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.77px;
+    text-align: right;
+}
+.image_services{
+    max-width: 743px;
+    width: 100%;
+    height: 955px;
+    background-size: cover;
+    background-image: url('/organick/image/images/pistache.png'); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.content2_services_reverse {
+    max-width: 396px;
+    height: 627.11px;
+    display: flex;
+    flex-direction: column-reverse; 
+    gap: 39px;
+  
+}
+
+.content3_services_reverse{
+    max-width: 396px;
+    height: 184.37px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+   
+    align-items: start;
+    
+}
+.bouton_services{
+    width: 181px;
+    height: 80px;
+    border-radius: 16px;
+    margin: 0 auto;
+    display: inline-block;
+}
+.bouton_services1{
+
+    border-radius: 16px;
+    border-color: #335b6b;
+    padding: 28px 36px 29px 36px;
+    display: flex ;
+  
+}
+.video{
+    max-width: 1920px;
+    width: 100%;
+    height: 1073px;
+    background-image: url('/organick/image/images/Bio.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+  
+}
+.content4_services{
+    max-width: 671px;
+    height: auto;
+    display: flex;
+    margin:0 auto;
+    gap: 50px;
+    flex-direction: column;
+    align-items: center;
+   
+}
+.headin_services{
+    max-width: 671px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.video_icon{
+    width: 107px;
+    height: 107px;
+
+}
+.Title_service{
+    width: 225px;
+    height: 49px;
+    font-family: "Yellowtail", cursive;
+    color: #68A47F;
+    font-size: 36px;
+    font-weight: 400;
+    line-height :49.06px;
+   
+
+}
+.title1_services{
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 58.59px;
+    color: #274C5B;
+    width: 700px;
+    height: 59px;
+    text-align: center;
+
+}
+.lorem1{
+    width: 671px;
+    height: 60px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.77px;
+    text-align: center;
+}
