@@ -105,8 +105,156 @@
     font-style: italic;
     color: #ccc;
 }
+.bloc1_contact{
+    width: 1920px;
+    height: 700px;
+
+}
+.bloc1_contact{
+    width: 1400px;
+    height: 640px;
+    display: flex;
+    margin: 0 auto;
+    gap: 75px;
+
+}
+.bloc2_contact{
+    width: 702px;
+    height: 569px;
+    display: flex;
+    flex-direction: column;
+
+}
+.bloc3_contact{
+    width: 777px;
+    height: 198px;
+    display: flex;
+    gap: 14px;
+
+}
+.lieu2{
+    width: 690px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 29.77px;
+    color: #525c60;
+}
+.titre_contact{
+    font-family: "Roboto", sans-serif;
+    width: 777.08px;
+    height: 94px;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 46.88px;
+    color: #274C5B;
+
+}
+
+.Emplacement{
+    max-width: 1920px ;
+    height : 900px ;
+
+}
+.emplacement{
+    max-width: 1400px ;
+    width: 100%;
+    height: 758px;
+    margin: 0 auto;
+    background-image: url('/organick/image/images/emplacement.png');
+    margin-bottom: 100px;
+    margin-top: 100px;
+
+    display: flex;
+    
+}
+.location{
+    max-width: 514px;
+    width: 100%;
+    height: 514px;
+    background-color: #ffffff;
+    margin-left: 750px;
+    margin-top: 100px;
+    border-radius: 16px;
+}
+.content_location{
+    width: 408px;
+    height: 422px;
+    display: flex;
+    flex-direction: column;
+    gap: 19px;
+    margin: 0 auto;
+}
+.heading_location{
+    width: 408px;
+    height: 201px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+.location_emp{
+
+    font-family: "Yellowtail", cursive;
+    color: #7EB693;
+    font-size: 36px;
+    line-height: 49.06px;
+    width: 162px;
+    height: 49px;
+}
+.ferme{
+    font-family: "Roboto", sans-serif;
+    width: 261px;
+    height: 59px;
+    margin-left: 21px;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 50.59px;
+    color: #274C5B;
+
+}
+.lorem_location{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 408px;
+    height: 90px;
+    font-size: 18px;
+    line-height: 29.77px;
+    color: #525c60;
+}
+.adresse{
+    width: 312px;
+    height: 202px;
+    display: flex ;
+    flex-direction: column;
+    gap: 22px;
+}
+.adresse1{
+    width: 312pc;
+    height: 90px;
+    display: flex;
+
+}
+.lieu{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.lieu1{
+    width: 256px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700px;
+    font-size: 18px;
+    line-height: 29.77px;
+    color: #525c60;
+}
 
 
 
-input[type="text"],
-input[type="email"],
+.lieu2{
+    width: 256px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700px;
+    font-size: 18px;
+    line-height: 29.77px;
+    color: #525c60;
+}
